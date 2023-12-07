@@ -16,4 +16,4 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
    
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ricardosilvasx/Desafio-tecnico.git
